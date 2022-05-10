@@ -40,4 +40,4 @@ Don't forget to open postgres' port (TCP 5432) in firewall to allow remote conne
 2. https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux_atomic_host/7/html-single/managing_containers/index#set_up_for_rootless_containers
 
 
-tags: #containers, #podman
+tags: #containers, #podman, #homelab, #postgres
